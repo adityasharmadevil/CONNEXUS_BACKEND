@@ -29,5 +29,5 @@ A simple **Video and Audio Calling App** built using **React.js** and **WebRTC**
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/video-audio-call-react.git
-cd video-audio-call-react
+git clone [https://github.com/yourusername/video-audio-call-react.git](https://github.com/adityasharmadevil/CONNEXUS_BACKEND.git)
+cd CONNEXUS_BACKEND
