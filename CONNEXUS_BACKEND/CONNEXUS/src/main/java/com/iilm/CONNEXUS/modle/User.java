@@ -16,9 +16,9 @@ import java.util.Date;
 @Document(collection = "users")
 public class User {
     @Id
-    private ObjectId id;
+    private ObjectId id; //remove
 
-    private String username;  // 7-char unique
+    private String username;  // 7-char unique pass by frontend
     private String email;
     private String phone;
     private String passwordHash;
